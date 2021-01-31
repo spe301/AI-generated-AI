@@ -9,4 +9,4 @@ could just fit one model instead of dozens, hundreds, or possibly thousands! Cou
 #Solution
 
 To solve this problem we can run several gridsearches, collect data; attributes of the dataset, hyparameters combinations, and model preformance, and use that as training data for
-a 
+a Neural Network, or possibly a Random Forest.That model could then predict the best parameter combinations for the given dataset. There is much more to it than that, but at a high level this the overall concept of this project
