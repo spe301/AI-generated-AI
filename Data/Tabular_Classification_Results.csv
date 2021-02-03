@@ -1,0 +1,5 @@
+,output_dim,nodes,activation,regularizer,stacking,dropout,nlayers,closer,optimizer,epochs,batch_size,loss_func,accuracy,loss,val_accuracy,val_loss,len_dataset,n_features
+0,2,64,relu,,False,False,4,False,adam,24,32,binary_crossentropy,0.9252747297286987,0.2082914263010025,0.9035087823867798,0.22784611582756042,569,30
+1,2,64,relu,,False,False,4,True,adam,14,32,binary_crossentropy,0.9076923131942749,0.23756146430969238,0.8771929740905762,0.35777080059051514,569,30
+2,2,64,relu,,False,False,5,False,adam,25,32,binary_crossentropy,0.9230769276618958,0.1919003427028656,0.8771929740905762,0.34979552030563354,569,30
+3,2,64,relu,,False,False,5,True,adam,18,32,binary_crossentropy,0.9054945111274719,0.23395231366157532,0.8421052694320679,0.46365541219711304,569,30

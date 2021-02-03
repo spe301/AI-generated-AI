@@ -1,0 +1,7 @@
+,nodes,activation,regularizer,stacking,dropout,nlayers,closer,loss_func,y_col,epochs,batch_size,optimizer,loss,val_loss,len_dataset,n_features
+0,32,relu,,False,False,4,False,MSE,string,18,32,rmsprop,59.18182373046875,44.038368225097656,506,13
+1,32,relu,,False,False,4,False,MAE,string,11,32,rmsprop,75.88536834716797,94.59413146972656,506,13
+2,64,relu,,False,False,4,False,MSE,string,7,32,rmsprop,63.254676818847656,30.89110565185547,506,13
+3,64,relu,,False,False,4,False,MAE,string,33,32,rmsprop,69.14022064208984,30.245502471923828,506,13
+4,128,relu,,False,False,4,False,MSE,string,18,32,rmsprop,70.25289154052734,41.01070022583008,506,13
+5,128,relu,,False,False,4,False,MAE,string,11,32,rmsprop,58.90270233154297,99.22801971435547,506,13
