@@ -1,5 +1,5 @@
-,output_dim,base_filters,kernel_size,activation,nblocks,pool,dropout,closer,metrics,epochs,batch_size,optimizer,accuracy,loss,val_accuracy,val_loss,len_dataset,n_features,thickness
-0,2,32,2,relu,3,2,False,False,accuracy,3,32,adam,0.7404687404632568,0.5262106657028198,0.7168750166893005,0.5345274806022644,8000,150,3
-1,2,32,2,relu,3,2,False,False,accuracy,3,32,rmsprop,0.7481250166893005,0.5169783234596252,0.7462499737739563,0.5092368125915527,8000,150,3
-2,2,32,2,relu,3,2,True,False,accuracy,3,32,adam,0.7715625166893005,0.4775925576686859,0.7631250023841858,0.4823574125766754,8000,150,3
-3,2,32,2,relu,3,2,True,False,accuracy,3,32,rmsprop,0.7557812333106995,0.4945148527622223,0.7543749809265137,0.5056514143943787,8000,150,3
+,output_dim,base_filters,kernel_size,activation,nblocks,pool,dropout,closer,metrics,epochs,batch_size,optimizer,accuracy,loss,val_accuracy,val_loss,len_dataset,n_features,dominant_class,thickness
+0,2,32,2,relu,3,2,FALSE,FALSE,accuracy,1,32,adam,0.558749974,0.677859783,0.654999971,0.626856029,8000,150,0.5,3
+1,2,32,2,relu,3,2,FALSE,FALSE,accuracy,1,32,rmsprop,0.539843738,0.683640003,0.606249988,0.653814316,8000,150,0.5,3
+2,2,32,2,relu,3,2,TRUE,FALSE,accuracy,1,32,adam,0.57640624,0.660324275,0.68187499,0.601655245,8000,150,0.5,3
+3,2,32,2,relu,3,2,TRUE,FALSE,accuracy,1,32,rmsprop,0.620312512,0.631246865,0.682500005,0.580419481,8000,150,0.5,3
