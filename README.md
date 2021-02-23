@@ -15,4 +15,4 @@ Using Potosnail [refrence at: https://github.com/spe301/Potosnail ] to collect m
 * Wikipedia articles + AI generated articles
 
 # Future works
-As of now I have plans to train the models on a wider range of datasets, and also include GAN (Generative Adversarial Networks). I'm also considering setting up GPU locally rather than using colabs and migrating to Pytorch Tensorflow/Keras, the former seams more practical at the moment.
+As of now I have plans to train the models on a wider range of datasets, and also include GAN (Generative Adversarial Networks). I'm also considering setting up GPU locally rather than using colabs and migrating to Pytorch from Tensorflow/Keras, the former seams more practical at the moment.
