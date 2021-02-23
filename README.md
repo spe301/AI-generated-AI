@@ -15,4 +15,4 @@ Using Potosnail [refrence at: https://github.com/spe301/Potosnail ] to collect m
 * Fake Or Real https://www.kaggle.com/spencerholley/fake-or-real
 
 # Future works
-As of now I have plans to train the models on a wider range of datasets, and also include GAN (Generative Adversarial Networks). I'm also considering setting up GPU locally rather than using colabs and migrating to Pytorch from Tensorflow/Keras, the former seams more practical at the moment.
+As of now I have plans to train the models on a wider range of datasets, and also include GAN (Generative Adversarial Networks). I'm also considering migrating to Pytorch from Tensorflow/Keras, I think this would be a good way to learn Pytorch but I won't do it until I feel like learning Pytorch would be benefical.
